@@ -272,6 +272,9 @@ textarea{
 
 
 @media (max-width:550px){
+    .Cardcontainer{
+        width: 90%;
+    }
     .cardBodyHead h1{
 
         margin-left: 2rem;
