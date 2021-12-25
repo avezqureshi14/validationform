@@ -295,17 +295,24 @@ textarea{
         
         font-size: 1rem;
     }
+    input{
+        width: 70vw;
+    }
+    select{
+        width: 70vw;
+
+    }
 }
 @media (max-width:350px){
     .cardBodyHead h1{
 
-        margin-left: 2rem;
+        margin-left: 1rem;
         margin-top: 3rem;
     }
     
     .style{
         margin-top: 3rem;
-        margin-left: 2rem;
+        margin-left: 1rem;
     }
     label{
         font-size: 0.8rem;
@@ -316,5 +323,12 @@ textarea{
     textarea{
         
         font-size: 0.8rem;
+    }
+    input{
+        width: 75vw;
+    }
+    select{
+        width: 75vw;
+
     }
 }
